@@ -71,7 +71,7 @@ CHANNEL_SUDO = getenv(
     "CHANNEL_SUDO", ""
 )  # رابط قناتك
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", ""
+    "SUPPORT_CHANNEL", "YY8GG"
 )  # Example:- https://t.me/yy8gg
 SUPPORT_GROUP = getenv(
     "SUPPORT_GROUP", ""
